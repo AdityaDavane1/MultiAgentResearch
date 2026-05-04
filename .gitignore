@@ -1,0 +1,4 @@
+echo "*.pyc" >> .gitignore
+echo ".env" >> .gitignore
+echo "venv/" >> .gitignore
+echo ".vscode/" >> .gitignore
